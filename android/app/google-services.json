@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499095023923",
+    "project_id": "qrscanner-bloc",
+    "storage_bucket": "qrscanner-bloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499095023923:android:d93bb494dc8b9383dd4e46",
+        "android_client_info": {
+          "package_name": "com.unustudents.qrscanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXEUCwBnPy9UEfPSddufWEbiWHlY9I_pU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
